@@ -4,7 +4,8 @@
 #### h4도 있음?
 
 [링크 텍스트](http://yongmangu105.cafe24.com/etc/event_view?number=114)
-![http://yongmangu105.cafe24.com/lib/upload/product/ong_test/2018/09/thum_500/1536645212-91_thumb.jpg](사진)
+
+![http://yongmangu105.cafe24.com/lib/upload/product/ong_test/2018/09/1536645212-91.jpg](사진)
 
 **굵음**
 __이탤릭체인가?
