@@ -5,7 +5,7 @@
 
 [링크 텍스트](http://yongmangu105.cafe24.com/etc/event_view?number=114)
 
-![](http://cdn.mustit.co.kr/lib/upload/product/must_it/2018/09/1537335075-69.jpg)
+![사진진](http://yongmangu105.cafe24.com/lib/upload/product/ong_test/2018/09/1536645212-91.jpg)
 
 
 
