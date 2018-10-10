@@ -47,6 +47,7 @@
 
 ## 2.1. 가이드
 - URL 기반(주로 Clean URL)
+
 | Uncleaned URL                                                   | Clean URL                                 |
 |:----------------------------------------------------------------|:------------------------------------------|
 | http://example.com/index.php?page=name                          | http://example.com/name                   |
@@ -60,6 +61,7 @@
 | http://en.wikipedia.org/w/index.php?title=Clean_URL             | http://en.wikipedia.org/wiki/Clean_URL    ||
 
 * 행동은 HTTP Method를 통해 표현.
+
 | CURD   | HTTP Method | URL           | Description               |
 |:------:|:-----------:|:------------- |:--------------------------|
 | Read	 | GET         | /resource     | resource들의 목록을 표시    |
