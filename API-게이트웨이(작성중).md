@@ -1,4 +1,4 @@
-# 1. ASWS API GATEWAY란?
+# 1. AWS API GATEWAY란?
 * Amazon API Gateway는 어떤 규모에서든 개발자가 API를 생성, 유지 관리, 모니터링 및 보호할 수 있게 해주는 AWS 서비스.
 * Client가 AWS 서비스에 액세스 할 수 있는 일관된 **RESTful API**를 제공.
 ![](https://t1.daumcdn.net/cfile/tistory/2242BF48574AC88102)
