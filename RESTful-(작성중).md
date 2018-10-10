@@ -1,11 +1,5 @@
-# 1. AWS API GATEWAY란?
-* Amazon API Gateway는 어떤 규모에서든 개발자가 API를 생성, 유지 관리, 모니터링 및 보호할 수 있게 해주는 AWS 서비스.
-* Client가 AWS 서비스에 액세스 할 수 있는 일관된 **RESTful API**를 제공.
-![](https://t1.daumcdn.net/cfile/tistory/2242BF48574AC88102)
-* MSA(Micro Service Architecture)에 대해서도 찾아 볼 것.
-
-## 1.1. REST? / RESTful?
-### 1.1.1. REST
+# 1. REST? / RESTful?
+## 1. REST
    - **Re**presentational **S**tate **T**ransfer의 약자로, 소프트웨어 프로그램 개발 아키텍쳐.
    - Representational(대표적인) State(상태) Transfer(전달)
    - 무엇이 대표적인가?
@@ -32,7 +26,7 @@
       + 인터페이스 일관성 : 아키텍쳐를 작은 단위로 분리함으로써 Client-Server가 독립적으로 개선될 수 있게한다.
       + **프로그램 처리 방식에 일관성을 부여하고, 서버의 부담을 줄인다.**
 
-### 1.1.2. RESTful
+## 1.2. RESTful
 * REST를 REST답게 사용하기 위한 방법.
    - REST 아키텍쳐 원리를 따르는 시스템.
    - REST의 6가지 조건을 충복하기 위한 가이드 라인.
