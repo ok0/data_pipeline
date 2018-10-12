@@ -17,6 +17,8 @@
 ## Swagger 스펙 작성
 - Swagger Editor
   + 코드와 문서가 서로 따로 관리되어 문서가 코드의 최신 내용을 정확히 반영하지 못 할 확률이 높다.
+  + Swagger Definition 을 기반으로 Swagger Codegen을 이용하여 Sample Code Generation
+
 - Annotation
   + Annotation 문법을 익혀야 한다.
   + 코드가 완성되기 전에 API 문서를 공개하지 못할 수도 있다.
