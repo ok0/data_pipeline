@@ -69,25 +69,3 @@
 | Create | POST        | /resource     | resource를 생성            |
 | Update | PUT         | /resource/:id | resource를 수정            |
 | Delete | DELETE      | /resource/:id | resource를 삭제            ||
-
-## 2.2. 내용
-* 내용
-   - 내용
-   - 내용
-
-## 2.3. 내용
-* 내용
-   - 내용
-   - 내용
-
-****
-
-# 3. 내용
-## 3.1. 내용 
-* 내용
-
-## 3.2. 내용 
-* 내용
-
-## 3.3. 내용 
-* 내용
